@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialApplication</string>
+    <string name="str_name">Name</string>
+    <string name="str_facebook">Facebook</string>
+    <string name="str_feed_news">Feed News</string>
+    <string name="search">Search</string>
+    <string name="person">Person</string>
+</resources>
